@@ -59,7 +59,7 @@ public class Utilisateur {
 
 🔌 API REST
 Base URL
-http://localhost:8080/api/utilisateurs
+http://localhost:9090/api/utilisateurs
 Endpoints
 GET / → Liste des utilisateurs
 GET /{id} → Détails utilisateur
@@ -87,7 +87,7 @@ SpringbootDbApplication.java
 
 Accéder à l’application :
 
-http://localhost:8080
+http://localhost:9090
 🛠️ Outils
 Postman
 IntelliJ IDEA / VS Code
